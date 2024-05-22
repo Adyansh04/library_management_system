@@ -21,6 +21,7 @@ The Library Management System is a Python-based project that allows users to man
 
 ## Project Structure
 
+```bash
 library-management-system/
 ├── main.py
 ├── models.py
@@ -30,7 +31,7 @@ library-management-system/
 ├── user.py
 ├── check.py
 └── README.md
-
+```
 
 ### `main.py`
 
