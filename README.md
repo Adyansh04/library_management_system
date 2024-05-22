@@ -30,7 +30,9 @@ library-management-system/
 ├── book.py
 ├── user.py
 ├── check.py
-└── README.md
+├── books.json
+├── users.json
+└── library.log
 ```
 
 ### `main.py`
